@@ -1,1 +1,1 @@
-# ECE362-Lab
+# ECE362-Lab-Ariel
